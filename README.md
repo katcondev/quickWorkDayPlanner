@@ -1,16 +1,33 @@
-# Work Day Scheduler Starter Code
 
+<h1 align="center">Quick Work Day Planner 🚀 </h1>
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+## Description
+A work day planner for those that are too busy to just pick up a notebook. Type it out!
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+## Installation
+Just run the application by going to https://katcontrerasdev.github.io/quickWorkDayPlanner/
+## Usage
+Lazy workaholics.
+## License
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+<br />
+This application is covered by the MIT license. 
+## Contributing
+Kat Contreras and the googles.
+## Tests
+Not right now.
+## Questions
+Just email kat.contreras@gmail.com<br />
+<br />
+:octocat: Find me on GitHub: [katcontrerasdev](https://github.com/katcontrerasdev)<br />
+<br />
+Email me with any questions: kat.contreras@gmail.com<br /><br />
+  
